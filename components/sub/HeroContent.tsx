@@ -46,7 +46,7 @@ const HeroContent = () => {
       className='w-full h-full flex justify-center items-center'
       >
         <Image 
-        src="/mainIconsdark.png" 
+        src="/mainIconsdark22.png" 
         alt="" 
         height={50} 
         width={650}/>
